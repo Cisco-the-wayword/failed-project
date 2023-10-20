@@ -4,6 +4,5 @@
 YES
 Soon
 Eventually.
-hehe
 meh
 
